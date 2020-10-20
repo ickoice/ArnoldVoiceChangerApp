@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Arnold Voice Changer App</string>
+    <string name="speak">Speak</string>
+    <string name="enter_a_sentence_for_arnold_to_read">Enter a sentence for Arnold to read...</string>
+</resources>
